@@ -18,12 +18,12 @@ to ground answers in your actual document rather than model hallucination.
 
 ## Tech Stack
 
-- **LangChain** — RAG pipeline orchestration
-- **FAISS** — vector similarity search
-- **HuggingFace Embeddings** — sentence-transformers/all-MiniLM-L6-v2
-- **LLaMA2 via Ollama** — local LLM inference, no API costs
-- **Streamlit** — interactive web interface
-- **PyPDF** — PDF text extraction
+- **LangChain** : RAG pipeline orchestration
+- **FAISS** : vector similarity search
+- **HuggingFace Embeddings** : sentence-transformers/all-MiniLM-L6-v2
+- **LLaMA2 via Ollama** : local LLM inference, no API costs
+- **Streamlit** : interactive web interface
+- **PyPDF** : PDF text extraction
 
 ## Setup
 
